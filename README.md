@@ -1,2 +1,7 @@
-##Full Time Idiot
-protogens are the best spieces /srs
+Computer programmer from st clair college
+
+##Skills##
+
+##Current Projects##
+
+##Future Goals##
