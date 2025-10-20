@@ -1,7 +1,7 @@
-### Computer programmer from st clair college
+#### Computer programmer from st clair college
 
-##Skills##
+## Skills
 
-##Current Projects##
+## Current Projects##
 
-##Future Goals##
+## Future Goals##
