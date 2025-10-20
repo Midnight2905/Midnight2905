@@ -1,4 +1,4 @@
-###Computer programmer from st clair college
+### Computer programmer from st clair college
 
 ##Skills##
 
