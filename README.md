@@ -1,25 +1,21 @@
 # Curtis Lussier
 
 #### About Me
-  - Computer programmer from st clair college
-  - Like learning new languages
-  - Likes end goals no matter the difficulty
-  - Backend development
+  - I'm a computer programmer from St Clair College.
+  - Enjoys making emulators
 #### Skills
   - Great at problem solving
   - Always up to date with current technology, I have used a wide variety of operating systems and learned many tips, trick and shortcuts as well as being able to transfer.
   - A great typing speed and can type decently fast.
   - Worked with many teams on many projects and we collaborated to reach an end goal and deliver a working products
-  - Understands mathimatics and logistic fundamentals 
+  - Understands mathimatics and logistic fundamentals
+  - Understands emulation
     
 #### Current Projects
-  -  Webflow app
-  -  Angular app
-  -  Kill Wolves project
+  -  Emulating a Gameboy
     
 #### Future Goals##
-  - Make a social media app
-  - Studying Quantum Computing
+  - Make an emulator for all consoles
     
 #### Employment History
   - Mcdonalds :: Team Leader / Health Team :: 2020 - Current
