@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a software developer and technology enthusiast with experience in C++, C#, Java, Python, and SQL. I enjoy building emulators, experimenting with low-level programming, and learning how computer systems work.
+I'm a software developer and technology enthusiast with experience in C++, C#, Java and Python. I enjoy experimenting with low-level programming, and learning how computer systems work.
 
 ## Skills
 
