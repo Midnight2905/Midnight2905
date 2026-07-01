@@ -20,7 +20,6 @@ I'm a software developer and technology enthusiast with experience in C++, C#, J
 - C#
 - Java
 - Python
-- SQL
 
 ### Tools & Frameworks
 - Unity
@@ -32,19 +31,11 @@ I'm a software developer and technology enthusiast with experience in C++, C#, J
 
 ### Operating Systems
 - Windows
-- Linux
+- IOS
 
 ## Current Projects
 
-### Game Boy Emulator (C++)
-- CPU instruction emulation
-- Memory management
-- ROM loading
-- Learning low-level system architecture
-
 ## Future Goals
-
-- Develop emulators for additional gaming consoles
 - Expand knowledge of computer architecture and systems programming
 - Contribute to open-source projects
 
